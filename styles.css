@@ -1,6 +1,8 @@
 body {
     align-items: center;
     text-align: center;
+    display: block;
+    padding: 20px auto;
 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -15,6 +17,31 @@ a {
     align-items: center;
     font-size: large;
     font-weight: bold;
-    background-color: black;
-    color: chartreuse;
+    background-color: none;
+    color: rgb(160, 9, 59);
+}
+
+h1 {
+    color: gold
+}
+
+
+
+#menu-ul li {
+    display: list-item;
+    padding: 5px 10px;
+    color: white;
+    margin: 0 3px;
+
+}
+
+#lasagna-ul li {
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-style: oblique;
 }
