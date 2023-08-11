@@ -40,5 +40,19 @@ li {
 
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 22px;
+    font-size: 15px;
+    font-style: italic;
+}
+
+#menu-ul {
+    display: block;
+    color: black
+}
+
+li a {
+    color: black;
+    font-size: 20px;
+    font-style: bold;
+    display: block;
+    padding: 10px 0px;
 }
