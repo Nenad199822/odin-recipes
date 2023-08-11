@@ -1,0 +1,21 @@
+body {
+    align-items: center;
+    text-align: center;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    align-items: center;
+}
+
+
+
+a {
+    text-align: center;
+    align-items: center;
+    font-size: large;
+    font-weight: bold;
+    background-color: brown;
+    color: chartreuse;
+}
