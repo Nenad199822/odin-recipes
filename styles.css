@@ -35,7 +35,8 @@ h1 {
 
 }
 
-#lasagna-ul li {
+#lasagna-ul li,
+#madame-ul li {
     margin-top: 10px;
     text-align: center;
     height: 40px;
@@ -65,7 +66,10 @@ h1 {
     color: rgb(151, 35, 6);
 }
 
-#lasagna-ul li h3 {
+#lasagna-ul li h3,
+#madame-ul li h3,
+#potato-ul li h3 {
     text-align: center;
     padding-top: 10px;
+
 }
